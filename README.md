@@ -7,7 +7,7 @@
 
 # Summary
 
-This is some small enhancements from 
+This is some small enhancements from the orginal code that Joe Butler posted on GitHub
 https://github.com/incognitjoe/juice-shop-solver
 A collection of Python functions for solving the various challenges in the 
 [OWASP Juice Shop](https://github.com/bkimminich/juice-shop), using 
