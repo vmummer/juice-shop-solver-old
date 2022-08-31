@@ -1,13 +1,15 @@
 # Juice Shop Solver
 
 * [Summary](#Summary)
-* [Target Audience](#Target Audience)
+* [Target Audience] To test your Juice Shop server
 * [Requirements](#Requirements)
 * [How To Run](#How To Run)
 
 # Summary
 
-A collection of Python 2.7 functions for solving the various challenges in the 
+This is some small enhancements from 
+https://github.com/incognitjoe/juice-shop-solver
+A collection of Python functions for solving the various challenges in the 
 [OWASP Juice Shop](https://github.com/bkimminich/juice-shop), using 
 [Requests](http://docs.python-requests.org/en/master/) and for two challenges, 
 [Selenium 3.0](https://pypi.python.org/pypi/selenium). 100% complete for release 
